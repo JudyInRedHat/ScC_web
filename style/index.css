@@ -1,0 +1,32 @@
+.title {
+    text-align:center;
+    font-family: Regular;
+    margin-bottom: 1%;
+}
+.header_ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.head li {
+    float:left;
+}
+.head a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 1em 1em;
+    text-decoration: none;
+}
+.title small{
+    padding-bottom: 1em;
+}
+.startbook a {
+    text-decoration: none;
+}
+.startbook {
+    text-align: center;
+    font-family: Regular;
+    margin-top: 1em;
+    padding: 1em;
+}
