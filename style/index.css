@@ -1,9 +1,9 @@
 .title {
     text-align:center;
-    font-family: Regular;
+    font-family: Regular,"MS Trebuchet", sans-serif;
     margin-bottom: 1%;
 }
-.header_ul {
+.header-ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -21,14 +21,38 @@
 .title small{
     padding-bottom: 1em;
 }
-.startbook a {
+.kua a {
     text-decoration: none;
 }
-.startbook {
+.kua {
     text-align: center;
-    font-family: Regular;
+    font-family: Regular,"MS Trebuchet", sans-serif;
     margin-top: 2em;
     padding: 1em;
     border: 2px solid #D3D3D3;
     border-radius: 0.5em;
+}
+
+.icon i{
+    color: #0000008a;
+    font-size: 48px;
+    height: 48px;
+    margin-top: 22px;
+    -webkit-user-select: none;
+    user-select: none;
+    width: 48px;
+}
+
+.icon a {
+    color: #0000008a;
+    font-family: Regular,"MS Trebuchet", sans-serif;
+    text-decoration: none;
+}
+
+.about {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
 }
